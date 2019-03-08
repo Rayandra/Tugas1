@@ -1,0 +1,14 @@
+package halo;
+
+/**
+ *
+ * @author Dimas Rayandra
+ */
+public class dimasrayandra {
+    public static void main (String[] args){
+        System.out.println("Halo nama saya dimas rayandra");
+        System.out.println("Prodi informatika");
+        System.out.println("Kelas 4B");
+        System.out.println("NIM 17090024");
+    }
+}
